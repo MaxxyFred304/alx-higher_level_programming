@@ -100,4 +100,7 @@ Results are sorted by ascending states.id and cities.id.
 Usage: ./102-relationship_cities_states_list.py <mysql username> <mysql password> <database name>.
 Uses the state relationship to access the State objects linked to City objects.
 Results are sorted by ascending cities.id.
+<<<<<<< HEAD
 
+=======
+>>>>>>> af8d45030c921250122d512cb0839df070151e89
